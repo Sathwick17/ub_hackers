@@ -83,7 +83,7 @@ Include backtesting and risk-adjusted return metrics (Sharpe Ratio dashboards).
 ```
 AUROC: 0.642
 Precision@10: 0.60
-Top Short Candidate: KAVL (98.7 % probability)
+Top Short Candidate: CMAX (94.5 % probability)
 ```
 
 # 10. Files Included
