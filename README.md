@@ -35,7 +35,7 @@ AI Agents (LangGraph) – Three autonomous nodes (Analyst, Model, Risk) coordina
 Vector Search (Qdrant) – Encoded “notes” combining RSI, MA ratio, and volatility metrics using sentence-transformer embeddings for semantic retrieval.
 ```
 
-# 4. Visualization –
+# 4. Visualization 
 ```
 Streamlit dashboard showing probabilities, narratives, and metrics.
 Tableau dashboards for performance and feature trend visualization.
@@ -96,8 +96,7 @@ equity_curve.csv	- Backtest results
 model_pipeline.pkl - Trained Logistic Regression model
 ```
 
-# 11. Tech Stack
-    
+# 11. Tech Stack    
 ```
 Multi-Agent Framework	- LangGraph
 Vector Database	- Qdrant
